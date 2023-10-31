@@ -1,4 +1,4 @@
-Sure, here are the main points from the above code that you can add to your resume:
+
 
 1. Developed a **web scraper** using Python's **BeautifulSoup** and **requests** libraries.
 2. The scraper takes a **target URL** as input and uses a **deque** data structure to manage URLs for scraping.
